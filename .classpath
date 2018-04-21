@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/core.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/base/core/jogl-all.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/ThinkGear-Java-socket/examples/ThinkGearDemo 2/lib/user/ThinkGear/ThinkGear.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/eclipse/jee-oxygen/db-derby-10.14.1.0-bin/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/eclipse/jee-oxygen/db-derby-10.14.1.0-bin/lib/derby.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/Downloads/GifAnimation-master/library/GifAnimation.jar"/>
+	<classpathentry kind="lib" path="/Users/kenestamcdonald/Downloads/sound/library/sound.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/kenestamcdonald/processing-sound/library/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
